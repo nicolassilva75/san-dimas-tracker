@@ -67,7 +67,7 @@ const MATCHES: MatchConfig[] = [
     players: [
       { id: 'm2-p1', name: 'Justin Tanaka', handicap: 9.9, team: 'A' },
       { id: 'm2-p2', name: 'Jon Huynh', handicap: 13.0, team: 'A' },
-      { id: 'm2-p3', name: 'Russell Uchizono', handicap: 8.0, team: 'B' },
+      { id: 'm2-p3', name: 'Zachary Soohoo', handicap: 16.0, team: 'B' },
       { id: 'm2-p4', name: 'Justin Cheng', handicap: 14.0, team: 'B' },
     ],
   },
